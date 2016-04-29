@@ -80,6 +80,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4001</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -160,6 +161,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4002</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -240,6 +242,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4003</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -320,6 +323,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4004</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -400,6 +404,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4005</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -480,6 +485,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4006</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -560,6 +566,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4007</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -640,6 +647,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4008</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -720,6 +728,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4009</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -800,6 +809,7 @@ interface GigabitEthernet0/1
 end
 </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4010</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
     </node>
@@ -945,6 +955,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4011</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
@@ -1090,6 +1101,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4012</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
@@ -1234,6 +1246,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4013</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
@@ -1378,6 +1391,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="static_serial_port_0" type="Integer">4014</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
