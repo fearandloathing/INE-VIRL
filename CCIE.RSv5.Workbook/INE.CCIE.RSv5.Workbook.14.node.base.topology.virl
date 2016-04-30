@@ -956,7 +956,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
-            <entry key="static_serial_port_0" type="Integer">4010</entry>
+            <entry key="static_serial_port_0" type="Integer">4011</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
