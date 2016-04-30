@@ -2,7 +2,6 @@
 <topology xmlns="http://www.cisco.com/VIRL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="0.9" simulationEngine="OPENSTACK" xsi:schemaLocation="http://www.cisco.com/VIRL https://raw.github.com/CiscoVIRL/schema/v0.9/virl.xsd">
     <extensions>
         <entry key="AutoNetkit.infrastructure_only" type="Boolean">true</entry>
-        <entry key="management_lxc" type="Boolean">true</entry>
         <entry key="lxc.host.static_ip" type="String">192.168.0.45</entry>
     </extensions>
     <node name="R1" type="SIMPLE" subtype="IOSv" location="57,131">
@@ -957,7 +956,7 @@ control-plane
 end
         </entry>
             <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
-            <entry key="static_serial_port_0" type="Integer">4011</entry>
+            <entry key="static_serial_port_0" type="Integer">4010</entry>
         </extensions>
         <interface id="0" name="GigabitEthernet0/1"/>
         <interface id="1" name="GigabitEthernet0/2"/>
